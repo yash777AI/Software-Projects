@@ -1,0 +1,79 @@
+body{
+	background:Dodgerblue;
+	color:white;
+}
+/*#para1:before{
+	content: "***";
+}
+#para1:after{
+	content: "***";
+}*/
+#interest{
+	font-style: italic;
+	color:purple;
+}
+#skills ul li{
+	color:yellow;
+	
+}
+
+#para1 p1 {
+	background:green;
+	border: dashed orange;
+	padding:auto;
+	display: inline-block;
+	text-align:justify;
+	
+}
+
+#para2 p2 {
+	background:purple;
+	border: dashed white;
+	padding:auto;
+	display: inline-block;
+	text-align:justify;
+	
+}
+#interest {
+	background:yellow;
+	border: dashed blue;
+	padding:auto;
+	display: inline-block;
+	text-align:justify;
+	
+	/*font-weight: Bold;*/
+}
+#skills{
+	background:orange;
+	border: dashed black;
+	padding:auto;
+	display: inline-block;
+	text-align:justify;
+	
+	/*font-weight: Bold;*/
+}
+/*similarly others are font-size which works in different forms 
+one in pts where 1pt is 2 inches and other in words like xx 
+small xx large, the percentages and so on */
+#p2{
+	line-height:0;
+}/*positioning left right justify */
+
+/*To enter the content before and after something use the below selectors
+#para1 p1:before {
+	content:"****
+	
+}
+#para1 p1:after {
+	content:"****"
+	
+}*/
+h1{
+	text-align: justify;
+}
+h2{
+	text-align: justify;
+}
+#interest ol {
+	text-align: justify;
+}

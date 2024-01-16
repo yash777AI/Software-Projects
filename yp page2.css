@@ -1,0 +1,16 @@
+body{
+	background-color: dodgerblue;
+}
+table{
+border: 1px solid black;
+background-color:chartreuse;
+}
+td{
+	border: 1px solid black;
+	color:orangered;
+}
+th{
+	border: 1px solid black;
+	color:purple;
+
+}
